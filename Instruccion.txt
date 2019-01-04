@@ -1,0 +1,17 @@
+1. Abrir una ventana de Terminal 
+2. Arrastrar “vivo_cuenca_server”
+3. Arrastrar “vivo_cuenca_config.json”
+4. Oprimir “Enter”
+--------------
+Esta ventana de terminal deberá estar abierta durante toda la presentación
+--------------
+5. Abrir en processing “vivo_cuenca_mapa3d.pde”
+6. Correr el sketch (botón Play o cmd+R)
+
+Controles en teclado:
+1 = En espera
+2 = Mapa
+3 = Puntos 360
+4 = -15 seg.
+6 = +15 seg.
+Q - L = Secciones
